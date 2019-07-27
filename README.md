@@ -14,4 +14,4 @@ pkg install git
 pkg install ruby -y2
 git clone https://github.com/dizart-y/ToolsLengkap
 cd ToolsLengkap
-sh ToolsUnc.sh
+sh ToolsUncs.sh
